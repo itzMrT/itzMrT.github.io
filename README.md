@@ -1,3 +1,3 @@
 # Testing
 
-Link to projectssss (../index)
+Link to projectssss (/index)
