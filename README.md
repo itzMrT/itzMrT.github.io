@@ -1,3 +1,3 @@
 # Testing
 
-Link to projects (index.md)
+Link to projects (../index)
